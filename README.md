@@ -1,2 +1,25 @@
-# juicy-community-gallery
-Tasty Travels community content methodology: creative directions, comparative cases and a standalone 96-image gallery.
+# Tasty Travels 社群内容生产方法论
+
+从 96 张社群配图归纳创意方向、同方向的表达差异，以及可复用的内容生产方法。
+
+- 六个创意方向：轻量竞猜、偏好选择、玩家表达、内容更新、角色陪伴、社群认可。
+- 五组对比案例：食物同款、宠物互动、季节系列、卡牌内容、反馈与晒图。
+- 提供生产流程、生产单与 Juicy Journey 迁移建议。
+
+在线入口：https://barofan1982.github.io/juicy-community-gallery/
+
+## 单文件分享
+
+打开在线入口，点击“下载单文件 HTML”。下载版内嵌全部 96 张原图、方法论、CSV、JSON 与 Skill 备份，不依赖其它文件、外部字体或服务，可离线转发。下载版约 24 MB，保留参考原图像素。
+
+仓库的 `index.html` 是按需加载图片的在线版，需要与 `images/` 和资料文件一起部署；不能只下载仓库的 `index.html` 当作离线版。完整仓库也可在本地网页服务器预览。
+
+## 分析范围
+
+分类为本次归纳；没有帖子正文、日期、互动数据或制作源文件。区分样本观察、流程推断与迁移建议，不宣称已知对方真实团队 SOP 或内容效果。图片与品牌为分析参考，不给第三方图片授予新许可。
+
+Juicy Journey 新图默认不写奖励数量，需要时另制作奖励组件。
+
+## 文件
+
+`community-methodology.md` 是方法论正文，`image-inventory.csv` 和 `inventory.json` 是逐图索引，`juicy-community-image.zip` 是生图技能备份。页面中的同名资料也可离线下载。
